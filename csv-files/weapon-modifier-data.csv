@@ -1,0 +1,7 @@
+,AddLifeMin,AddLifeMax,AddPowerMin,AddPowerMax,AddLifeLv2Min,AddLifeLv2Max,AddPowerLv2Min,AddPowerLv2Max,AddGuardMin,AddGuardMax,AddGuardLv2Min,AddGuardLv2Max,FinishBlow,LongThrow,RapidFire,FiveWay
+Bows,3,5,3,5,6,10,6,10,,,,,,,TRUE,
+Spread Multishot Bows,3,5,3,5,6,10,6,10,,,,,,,TRUE,TRUE
+Two handed weapons,3,5,3,5,6,10,6,10,,,,,TRUE,TRUE,,
+Spears,3,5,3,5,6,10,6,10,,,,,TRUE,TRUE,,
+One handed weapons,3,5,3,5,6,10,6,10,,,,,TRUE,TRUE,,
+Shields,3,5,,,6,10,,,3,5,6,10,,,,

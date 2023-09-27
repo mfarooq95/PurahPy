@@ -1,0 +1,47 @@
+Effect Name,Icon,Type,Level 1,Level 2,Level 3
+Cold Resistance,,Armor / Food,Endure cold environments up to -10°C,Endure any cold environment,-
+Unfreezable,,Armor / Set Bonus,Take no damage from ice and cannot be frozen,-,-
+Flame Guard,,Armor / Food,Endure some scorching environments,Endure any scorching environment,-
+Fireproof,,Set Bonus,Take no damage from fire and cannot be burned,-,-
+Swim Speed Up,,Armor,Move 30% faster in water,Move 60% faster in water,Move twice as fast in water
+Swim Dash Stamina Up,,Set Bonus,Use 75% less stamina from swim dashes,-,-
+Heat Resistance,,Armor / Food,Endure hot environments up to 50°C,Endure any hot environment,-
+Shock Damage Resist,,Set Bonus,Take 2/3 less damage from electricity,-,-
+Shock Resistance,,Armor / Food,Take 1/3 less damage from electricity,Take 2/3 less damage from electricity,Take no damage from electricity
+Lightning Proof,,Armor / Set Bonus,No damage or knockback from lightning strikes,-,-
+Stealth Up,,Armor / Food,Produce 20% less sound,Produce 40% less sound,Produce 70% less sound
+Night Speed Up,,Set Bonus,Move 20% faster during the night,-,-
+Speed Up,,Food,Move 10% faster,Move 20% faster,Move 30% faster
+Climb Speed Up,,Armor,Climb 20% faster,Climb 30% faster,Climb 40% faster
+Climbing Jump Stamina Up,,Set Bonus,Use 50% less stamina from climbing jumps,-,-
+Sideways Climb Speed Up,-,Armor,Climb 70% faster horizontally,-,-
+Attack Up,,Armor / Food,20% higher attack power,30% higher attack power,50% higher attack power
+Attack Up,,Set Bonus,20% higher attack power,-,-
+Charge Atk. Stamina Up,,Set Bonus,Use 50% less stamina from charge attacks,-,-
+Bone Weap. Prof.,,Set Bonus,80% higher bone weapon attack power,-,-
+Defense Up,,Food,"Increase defense by 4 
+(1 heart)","Increase defense by 12
+(3 hearts)","Increase defense by 24
+(6 hearts)"
+Slip Resistance,,Armor / Food,Slip while climbing in rain every 6 seconds,Slip while climbing in rain every 8 seconds,Slip while climbing in rain every 10 seconds
+Slip Proof,,Set Bonus,Never slip while climbing in rain,-,-
+Skydive Mobility Up,,Armor,x1.5 better mobility while diving,x2 better mobility while diving,x2.5 better mobility while diving
+Impact Proof,,Set Bonus,No damage from falls of any height,-,-
+Gloom Resistance,,Armor / Food,1 Gloom Heart,2 Gloom Hearts,3 Gloom Hearts
+Gloom Attack Resist,,Set Bonus,4 Gloom Hearts,-,-
+Glow,,Armor / Food,Glow with light intensity of 10,Glow with light intensity of 30,Glow with light intensity of 60
+Shining Steps,,Set Bonus,Produce footprints every 5 seconds in the Depths,-,-
+Rupee Padding,,Armor,Convert up to 12 damage points to 10 rupees per point,Convert up to 24 damage points to 10 rupees per point,Convert up to 36 damage points to 10 rupees per point
+Hot Weather Attack,,Armor / Food,"In hot weather, applies fire AOE to combo finishers and charge attacks with +5 fire attack power",Larger area of effect by 50% for combo finishers and 33% for charge attacks,Larger area of effect x2 for combo finishers and 66% for charge attacks
+Hot Weather Charge,,Set Bonus,Charge attacks charge twice as fast in hot weather,-,-
+Stormy Weather Attack,,Armor / Food,"In stormy weather, applies electric AOE to combo finishers and charge attacks with +5 electric attack power",Larger area of effect by 50% for combo finishers and 33% for charge attacks,Larger area of effect x2 for combo finishers and 66% for charge attacks
+Stormy Weather Charge,,Set Bonus,Charge attacks charge twice as fast in stormy weather,-,-
+Cold Weather Attack,,Armor / Food,"In cold weather, applies ice AOE to combo finishers and charge attacks with +5 ice attack power",Larger area of effect by 50% for combo finishers and 33% for charge attacks,Larger area of effect x2 for combo finishers and 66% for charge attacks
+Cold Weather Charge,,Set Bonus,Charge attacks charge twice as fast in cold weather,-,-
+Energy Up,,Armor,Consume 20% less energy from devices,Consume 35% less energy from devices,Consume 50% less energy from devices
+Energy Recharge Up,,Set Bonus,Recover energy 50% faster,-,-
+Sand Speed Up,,Armor,Move at normal speed on sand,-,-
+Snow Speed Up,,Armor,Move at normal speed on snow,-,-
+Master Sword Beam Up,,Set Bonus,Master Sword beam increased to 15 attack power,-,-
+Durability Up,,Weapon / Bow / Shield,Increase Durability by 3 to 5,-,-
+Durability Up+,,Weapon / Bow / Shield,Increase Durability by 6 to 10,-,-

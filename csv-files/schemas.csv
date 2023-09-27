@@ -1,0 +1,47 @@
+Name,Image,Icon,Source,Object Map Link,Name (Japanese),Schema ActorName,Giver NPC ActorName,Menu Order
+Fanplane,,,Steward Construct (Great Abandoned Central Mine),Fanplane,飛行機,Obj_AutoBuilderDraft_00,Npc_Zonau_Golem_Servant_Minus0021,01
+Liftoff Glider,,,Treasure Chest (Depths Yiga Hideout),Liftoff Glider,垂直離陸飛行機,Obj_AutoBuilderDraftAssassin_10,-,02
+Raiding Plane,,,Treasure Chest (Depths Yiga Hideout),Raiding Plane,攻撃飛行機(対地),Obj_AutoBuilderDraftAssassin_22,-,03
+Hot-Air Balloon,,,A Mystery in the Depths,Hot-Air Balloon,気球,Obj_AutoBuilderDraft_10,Npc_BaseCamp_Assistant,04
+Dirigible,,,Steward Construct (Abandoned Lurelin Mine),Dirigible,双発気球,Obj_AutoBuilderDraft_05,Npc_Zonau_Golem_Servant_Minus0010,05
+Fanboat,,,Treasure Chest (Depths Yiga Hideout),Fanboat,高速船,Obj_AutoBuilderDraftAssassin_03,-,06
+Hovercraft,,,Steward Construct (Abandoned Gerudo Mine),Hovercraft,砂上船,Obj_AutoBuilderDraft_02,Npc_Zonau_Golem_Servant_Minus0022,07
+Bolt Boat,,,Steward Construct (Abandoned Lanayru Mine),Bolt Boat,雷撃船,Obj_AutoBuilderDraft_03,Npc_Zonau_Golem_Servant_Minus0024,08
+Fishing Trawler,,,Treasure Chest (Depths Yiga Hideout),Fishing Trawler,漁船,Obj_AutoBuilderDraftAssassin_12,-,09
+Headlight Raft,,,Treasure Chest (Depths Yiga Hideout),Headlight Raft,照明付きいかだ,Obj_AutoBuilderDraftAssassin_04,-,10
+All-Purpose Raft,,,Treasure Chest (Depths Yiga Hideout),All-Purpose Raft,万能いかだ,Obj_AutoBuilderDraftAssassin_30,-,11
+Monocycle,,,Treasure Chest (Depths Yiga Hideout),Monocycle,一輪車,Obj_AutoBuilderDraftAssassin_21,-,12
+Beam Cycle,,,Steward Construct (Shrine of Resurrection),Beam Cycle,光線二輪車,Obj_AutoBuilderDraft_11,Npc_Zonau_Golem_Servant_MainField0001,13
+Three Wheeler,,,Treasure Chest (Depths Yiga Hideout),Three Wheeler,三輪車,Obj_AutoBuilderDraftAssassin_02,-,14
+Cargo Carrier,,,Treasure Chest (Depths Yiga Hideout),Cargo Carrier,三輪運搬車,Obj_AutoBuilderDraftAssassin_07,-,15
+Big Rig,,,Treasure Chest (Depths Yiga Hideout),Big Rig,四輪車,Obj_AutoBuilderDraftAssassin_08,-,16
+Wagon,,,Treasure Chest (Depths Yiga Hideout),Wagon,荷馬車,Obj_AutoBuilderDraftAssassin_13,-,17
+Excavator,,,Treasure Chest (Depths Yiga Hideout),Excavator,掘削車,Obj_AutoBuilderDraftAssassin_31,-,18
+Assault Cart,,,Treasure Chest (Depths Yiga Hideout),Assault Cart,突撃台車,Obj_AutoBuilderDraftAssassin_32,-,19
+Tank,,,Treasure Chest (Depths Yiga Hideout),Tank,戦車,Obj_AutoBuilderDraftAssassin_00,-,20
+Bridge,,,Steward Construct (Abandoned Hateno Mine),Bridge,橋,Obj_AutoBuilderDraft_04,Npc_Zonau_Golem_Servant_Minus0009,21
+Instant Scaffold,,,Steward Construct (Abandoned Kara Kara Mine),Instant Scaffold,通りぬけ足場,Obj_AutoBuilderDraft_07,Npc_Zonau_Golem_Servant_Minus0003,22
+Rocket Platform,,,Steward Construct (Abandoned Hebra Mine),Rocket Platform,打ち上げ足場,Obj_AutoBuilderDraft_01,Npc_Zonau_Golem_Servant_Minus0025,23
+Instant Scaffold,,,Treasure Chest (Depths Yiga Hideout),Instant Scaffold,どこでも足場,Obj_AutoBuilderDraftAssassin_20,-,24
+Instant Kitchen,,,Treasure Chest (Depths Yiga Hideout),Instant Kitchen,どこでも調理場,Obj_AutoBuilderDraftAssassin_14,-,25
+Automated Ally,,,Steward Construct (Abandoned Eldin Mine),Automated Ally,戦闘ギア(火炎),Obj_AutoBuilderDraft_09,Npc_Zonau_Golem_Servant_Minus0006,26
+Icebreaker,,,Treasure Chest (Depths Yiga Hideout),Icebreaker,戦闘ギア(凍),Obj_AutoBuilderDraftAssassin_17,-,27
+Charged Charger,,,Treasure Chest (Depths Yiga Hideout),Charged Charger,戦闘ギア(雷),Obj_AutoBuilderDraftAssassin_27,-,28
+Beam Turret,,,Treasure Chest (Depths Yiga Hideout),Beam Turret,戦闘ギア(光線),Obj_AutoBuilderDraftAssassin_05,-,29
+Beam Spinner,,,Treasure Chest (Depths Yiga Hideout),Beam Spinner,戦闘ギア(回転光線),Obj_AutoBuilderDraftAssassin_33,-,30
+Whirling Basher,,,Treasure Chest (Depths Yiga Hideout),Whirling Basher,戦闘ギア(打撃),Obj_AutoBuilderDraftAssassin_29,-,31
+Flamethrower Balloon,,,Treasure Chest (Depths Yiga Hideout),Flamethrower Balloon,戦闘ギア(気球),Obj_AutoBuilderDraftAssassin_01,-,32
+Shock Trap,,,Treasure Chest (Depths Yiga Hideout),Shock Trap,戦闘ギア(門),Obj_AutoBuilderDraftAssassin_11,-,33
+Bomb Bouquet,,,Treasure Chest (Depths Yiga Hideout),Bomb Bouquet,大バクダン,Obj_AutoBuilderDraftAssassin_23,-,34
+Instant Cannon,,,Steward Construct (Abandoned Tarrey Mine),Instant Cannon,どこでも大砲,Obj_AutoBuilderDraft_06,Npc_Zonau_Golem_Servant_Minus0007,35
+Triple Cannon,,,Treasure Chest (Depths Yiga Hideout),Triple Cannon,三連大砲,Obj_AutoBuilderDraftAssassin_24,-,36
+Aerial Cannon,,,Treasure Chest (Depths Yiga Hideout),Aerial Cannon,打ち上げ空中砲台,Obj_AutoBuilderDraftAssassin_18,-,37
+Scatter Trap,,,Treasure Chest (Depths Yiga Hideout),Scatter Trap,撒き罠,Obj_AutoBuilderDraftAssassin_25,-,38
+Smoke Rocket,,,Treasure Chest (Depths Yiga Hideout),Smoke Rocket,ロケット煙幕,Obj_AutoBuilderDraftAssassin_26,-,39
+Launch Pad,,,Steward Construct (Abandoned Kakariko Mine),Launch Pad,発射台,Obj_AutoBuilderDraft_08,Npc_Zonau_Golem_Servant_Minus0008,40
+Super Spring,,,Treasure Chest (Depths Yiga Hideout),Super Spring,強力ジャンプ台,Obj_AutoBuilderDraftAssassin_15,-,41
+Vertical Escape,,,Treasure Chest (Depths Yiga Hideout),Vertical Escape,緊急脱出装置,Obj_AutoBuilderDraftAssassin_06,-,42
+Sprinkler System,,,Treasure Chest (Depths Yiga Hideout),Sprinkler System,どこでも散水機,Obj_AutoBuilderDraftAssassin_16,-,43
+Rainmaker,,,Treasure Chest (Depths Yiga Hideout),Rainmaker,打ち上げ散水機,Obj_AutoBuilderDraftAssassin_28,-,44
+Water Freezer,,,Treasure Chest (Depths Yiga Hideout),Water Freezer,水上製氷機,Obj_AutoBuilderDraftAssassin_09,-,45
+Floodlights,,,Treasure Chest (Depths Yiga Hideout),Floodlights,どこでも照明,Obj_AutoBuilderDraftAssassin_19,-,46

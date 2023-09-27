@@ -1,0 +1,17 @@
+Internal Name,EUen name,Effect
+AttachmentDamageUp,Strong Fusion,x2 on fused material / weapon / shield / bow damage
+ChargeSpeedUp,Quick Charge,Charged attacks charge twice faster
+CreateWind,Wind Burst,Sends wind
+DecreaseChargeAttackStamina,Charge Atk. Stamina Up,Decreases used stamina when using charged attacks by twice the amount
+DefeatMiasma,Revitalized Sword of Legend,"15 more damage against miasmas (only on Master Sword, does not apply to fuse material)"
+HighDurability,Extra Durable,No effect (durability is independant from this)
+HystericalStrength,Desperate Strength,Whole weapon has 2x damage when Link has one heart or less
+Katana,Wind Razor,Sends wind slashes
+Miasma,Gloom Toll,Slowly consumes Link's heart containers when he uses the weapon
+Reuse,Fuse Recycling,Allows the reusage of certain one-time use fuse materials (such as puffshroom)
+RicketyDamageUp,Breaking Point,The whole weapon has 2x damage when its durability < 4
+RushDamageUp,Improved Flurry Rush,The whole weapon deals 2x more damage during flurry rushes
+ShatterLevelUp,Demolisher,x1.5 on rock type damageable entities
+StealthAttackUp,Improved Sneakstrike,x16 sneakstrikes instead of x8
+WaterDamageUp,Water Warrior,The whole weapon deals 2x more damage when wet
+ZonauDamageUp,Zonaite-Powered,Adds damage if the fused material is zonai

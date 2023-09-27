@@ -1,0 +1,122 @@
+Name,Image,HP,Object Map Link,Default Affiliation,Spawn Time,Despawn Time,Invalid Weathers,Flame Guard Level,Flammable,Burns Out,Freezable,Ridable,Wettability,ActorName,Compendium #
+Horse,,Varies,Horse,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,GameRomHorse,001
+Giant Horse,,300,Giant Horse,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,GameRomHorse00L,002
+White Horse,,220,White Horse,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,GameRomHorseZelda,003
+Giant White Stallion,,300,Giant White Stallion,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,GameRomHorse01L,004
+Golden Horse,,220,Golden Horse,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,GameRomHorseGold,005
+Stalhorse,,100,Stalhorse,Neutral,9pm - 5am,5am,-,0,TRUE,FALSE,TRUE,TRUE,2,GameRomHorseBone,006
+Donkey,,120,Donkey,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,GameRomHorse01S,007
+Sand Seal,,100,Sand Seal,Neutral,-,-,-,0,FALSE,FALSE,FALSE,TRUE,2,Animal_Sunazarashi_A,008
+Sand Seal (Rental),,100,Sand Seal (Rental),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,TRUE,2,Animal_Sunazarashi_B,008
+Sand Seal (Before Temple),,100,Sand Seal (Before Temple),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Sunazarashi_B_NoMove,008
+Patricia,,-,Patricia,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_SunazarashiSP_C,009
+Patricia (With Riju),,-,Patricia (With Riju),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_SunazarashiSP_C_NoMove,009
+Bushy-Tailed Squirrel,,1,Bushy-Tailed Squirrel,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Squirrel_A,010
+Woodland Boar,,8,Woodland Boar,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Boar_A,011
+Red-Tusked Boar,,40,Red-Tusked Boar,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Boar_B,012
+Mountain Goat,,8,Mountain Goat,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_WildGoat_A,013
+White Goat,,-,White Goat,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Goat_A,014
+Mountain Buck,,10,Mountain Buck,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,Animal_Deer_A,015
+Mountain Doe,,10,Mountain Doe,Neutral,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,Animal_Doe_A,016
+Water Buffalo,,24,Water Buffalo,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Bull_A,017
+Hateno Cow,,-,Hateno Cow,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Cow_A,018
+Highland Sheep,,-,Highland Sheep,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Sheep_A,019
+Highland Sheep (South Akkala Stable),,-,Highland Sheep (South Akkala Stable),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Sheep_B,019
+Grassland Fox,,8,Grassland Fox,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Fox_A,020
+Snowcoat Fox,,18,Snowcoat Fox,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Fox_B,021
+Maraudo Wolf,,16,Maraudo Wolf,Predator,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Wolf_A,022
+Wasteland Coyote,,30,Wasteland Coyote,Predator,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Wolf_B,023
+Cold-Footed Wolf,,45,Cold-Footed Wolf,Predator,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Wolf_C,024
+Tabantha Moose,,30,Tabantha Moose,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Elk_A,025
+Dondon,,-,Dondon,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Pao_A,026
+Honeyvore Bear,,250,Honeyvore Bear,Predator,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,Animal_Bear_A,027
+Grizzlemaw Bear,,500,Grizzlemaw Bear,Predator,-,-,-,0,TRUE,FALSE,TRUE,TRUE,2,Animal_Bear_B,028
+Hylian Retriever (Brown/Black/White),,-,Hylian Retriever (Brown/Black/White),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Dog_A,029
+Hylian Retriever (Black),,-,Hylian Retriever (Black),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Dog_B,029
+Hylian Retriever (Brown),,-,Hylian Retriever (Brown),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Dog_C,029
+Blupee,,-,Blupee,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_RupeeRabbit_A,030
+Blupee (Bubbulfrog),,-,Blupee (Bubbulfrog),Neutral,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_RupeeRabbit_FromCaveMaster,030
+Bubbulfrog,,18,Bubbulfrog,Enemy,-,-,-,0,TRUE,FALSE,TRUE,FALSE,1,Enemy_CaveMaster_000,031
+Common Sparrow,,1,Common Sparrow,Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_LittleBird_A,032
+Red Sparrow,,1,Red Sparrow,Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_LittleBird_B,033
+Blue Sparrow,,1,Blue Sparrow,Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_LittleBird_C,034
+Rainbow Sparrow,,1,Rainbow Sparrow,Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_LittleBird_D,035
+Rainbow Sparrow (Penn),,1,Rainbow Sparrow (Penn),Neutral,4am - 9pm,9pm,10110101100,0,FALSE,FALSE,FALSE,FALSE,2,Animal_LittleBird_G,035
+Sand Sparrow,,1,Sand Sparrow,Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_LittleBird_E,036
+Golden Sparrow,,1,Golden Sparrow,Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_LittleBird_F,037
+Golden Sparrow (Sky),,1,Golden Sparrow (Sky),Neutral,4am - 9pm,9pm,10110101100,0,TRUE,FALSE,TRUE,FALSE,2,Animal_SkyLittleBird_F,037
+Wood Pigeon,,1,Wood Pigeon,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Pigeon_A,038
+Rainbow Pigeon,,1,Rainbow Pigeon,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Pigeon_B,039
+Rainbow Pigeon Swarm,,1,Rainbow Pigeon Swarm,Neutral,4am - 9pm,-,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Pigeon_B_Swarm,039
+Rainbow Pigeon Swarm (Rito Village),,1,Rainbow Pigeon Swarm (Rito Village),Neutral,4am - 9pm,-,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Pigeon_Swarm,039
+Hotfeather Pigeon,,1,Hotfeather Pigeon,Neutral,4am - 9pm,9pm,10011101000,1,TRUE,FALSE,TRUE,FALSE,2,Animal_Ptarmigan_B,040
+White Pigeon,,1,White Pigeon,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Ptarmigan_A,041
+Accented Pigeon,,1,Accented Pigeon,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_SkyPigeon_A,042
+Mountain Crow,,1,Mountain Crow,Neutral,4am - 9pm,-,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Crow_A,043
+Mountain Crow Swarm,,1,Mountain Crow Swarm,Neutral,4am - 9pm,-,10010111000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Crow_Swarm,043
+Bright-Chested Duck,,1,Bright-Chested Duck,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_WildDuck_A,044
+Blue-Winged Heron,,1,Blue-Winged Heron,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Heron_A,045
+Pink Heron,,1,Pink Heron,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Heron_B,046
+Islander Hawk,,1,Islander Hawk,Neutral,4am - 9pm,9pm,10010111000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Hawk_A,047
+Seagull,,1,Seagull,Neutral,4am - 9pm,9pm,10010111000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Gull_A,048
+Seagull Swarm,,1,Seagull Swarm,Neutral,4am - 9pm,-,00010111000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_Gull_Swarm,048
+Cloud Seagull,,1,Cloud Seagull,Neutral,4am - 9pm,9pm,10010111000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_SkyGull_A,049
+Cloud Seagull Swarm,,1,Cloud Seagull Swarm,Neutral,4am - 9pm,-,00010111000,0,TRUE,FALSE,TRUE,FALSE,2,Animal_SkyGull_Swarm,049
+Eldin Ostrich,,8,Eldin Ostrich,Neutral,4am - 9pm,9pm,10011101000,1,TRUE,FALSE,TRUE,FALSE,2,Animal_Cassowary_A,050
+Forest Ostrich,,8,Forest Ostrich,Neutral,-,-,-,0,TRUE,FALSE,TRUE,FALSE,2,Animal_SkyCassowary_A,051
+Cucco,,-,Cucco,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_A,052
+Cucco (Kakariko Village),,-,Cucco (Kakariko Village),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_B,052
+Cucco (Kakariko Village),,-,Cucco (Kakariko Village),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_B2,052
+Cucco (Hateno Village),,-,Cucco (Hateno Village),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_C,052
+Cucco (Hateno Village),,-,Cucco (Hateno Village),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_C2,052
+Talking Cucco,,-,Talking Cucco,DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_D,052
+Cucco (South Akkala Stable),,-,Cucco (South Akkala Stable),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_E,052
+Cucco (South Akkala Stable),,-,Cucco (South Akkala Stable),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_E2,052
+Cucco (South Akkala Stable),,-,Cucco (South Akkala Stable),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_E3,052
+Cucco (South Akkala Stable),,-,Cucco (South Akkala Stable),DomesticAnimal,-,-,-,0,FALSE,FALSE,FALSE,FALSE,2,Animal_Kokko_E4,052
+Hyrule Bass,,1,Hyrule Bass,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_A,053
+Hearty Bass,,1,Hearty Bass,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_B,054
+Staminoka Bass,,1,Staminoka Bass,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_L,055
+Hearty Salmon,,1,Hearty Salmon,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_I,056
+Chillfin Trout,,1,Chillfin Trout,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_C,057
+Sizzlefin Trout,,1,Sizzlefin Trout,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_J,058
+Voltfin Trout,,1,Voltfin Trout,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_D,059
+Stealthfin Trout,,1,Stealthfin Trout,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_X,060
+Mighty Carp,,1,Mighty Carp,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_E,061
+Armored Carp,,1,Armored Carp,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_H,062
+Sanke Carp,,1,Sanke Carp,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_Z,063
+Ancient Arowana,,1,Ancient Arowana,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_AA,064
+Glowing Cave Fish,,1,Glowing Cave Fish,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_AC,065
+Mighty Porgy,,1,Mighty Porgy,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_F,066
+Armored Porgy,,1,Armored Porgy,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_G,067
+Sneaky River Snail,,1,Sneaky River Snail,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Fish_M,068
+Razorclaw Crab,,1,Razorclaw Crab,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_K,069
+Ironshell Crab,,1,Ironshell Crab,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_O,070
+Bright-Eyed Crab,,1,Bright-Eyed Crab,Neutral,-,-,10000110000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_Z,071
+Fairy,,1,Fairy,Neutral,-,-,-,0,FALSE,FALSE,FALSE,FALSE,0.1,Animal_Insect_F,072
+Winterwing Butterfly,,1,Winterwing Butterfly,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_N,073
+Summerwing Butterfly,,1,Summerwing Butterfly,Neutral,4am - 9pm,9pm,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_Q,074
+Thunderwing Butterfly,,1,Thunderwing Butterfly,Neutral,4am - 9pm,-,00001100011,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_R,075
+Smotherwing Butterfly,,1,Smotherwing Butterfly,Neutral,4am - 9pm,9pm,10011101000,1,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_AB,076
+Cold Darner,,1,Cold Darner,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_C,077
+Warm Darner,,1,Warm Darner,Neutral,4am - 9pm,9pm,10011101000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_T,078
+Electric Darner,,1,Electric Darner,Neutral,4am - 9pm,-,00001100011,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_I,079
+Restless Cricket,,1,Restless Cricket,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_H,080
+Bladed Rhino Beetle,,1,Bladed Rhino Beetle,Neutral,7pm - 7am,-,10010101000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_G,081
+Rugged Rhino Beetle,,1,Rugged Rhino Beetle,Neutral,7pm - 7am,-,10010101000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_P,082
+Energetic Rhino Beetle,,1,Energetic Rhino Beetle,Neutral,7pm - 7am,-,10010101000,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_AA,083
+Sunset Firefly,,1,Sunset Firefly,Neutral,9pm - 4am,-,10111111100,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_E,084
+Deep Firefly,,1,Deep Firefly,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_AI,085
+Hot-Footed Frog,,1,Hot-Footed Frog,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_A,086
+Tireless Frog,,1,Tireless Frog,Neutral,-,-,10001100010,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_B,087
+Sticky Frog,,1,Sticky Frog,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_AG,088
+Hightail Lizard,,1,Hightail Lizard,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_S,089
+Hearty Lizard,,1,Hearty Lizard,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_M,090
+Fireproof Lizard,,1,Fireproof Lizard,Neutral,-,-,-,1,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_X,091
+Sticky Lizard,,1,Sticky Lizard,Neutral,-,-,-,0,TRUE,TRUE,TRUE,FALSE,0.1,Animal_Insect_AH,092
+Dinraal,,-,Dinraal,Friendly,-,-,-,0,FALSE,FALSE,FALSE,FALSE,-,Enemy_Dragon_Fire,188
+Naydra,,-,Naydra,Friendly,-,-,-,0,FALSE,FALSE,FALSE,FALSE,-,Enemy_Dragon_Ice,189
+Farosh,,-,Farosh,Friendly,-,-,-,0,FALSE,FALSE,FALSE,FALSE,-,Enemy_Dragon_Electric,190
+Light Dragon,,-,Light Dragon,Friendly,-,-,-,0,FALSE,FALSE,FALSE,FALSE,0.1,Enemy_Dragon_Light_001,202
+Light Dragon (Final Boss),,-,Light Dragon (Final Boss),Friendly,-,-,-,0,FALSE,FALSE,FALSE,TRUE,0.1,Enemy_Dragon_Light_002,202
+Bee Swarm,,2,Bee Swarm,Predator,-,-,-,0,FALSE,FALSE,FALSE,FALSE,0.1,Enemy_Bee_Swarm,254
