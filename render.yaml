@@ -2,6 +2,7 @@ services:
   - type: web
     name: flask-totk-api-app
     runtime: python
+    plan: free
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "gunicorn -c gunicorn.config.py main:app"
-    autoDeploy: false
+    startCommand: "gunicorn -c gunicorn.config.py purah-py-api.main:app"
+    autoDeploy: true
